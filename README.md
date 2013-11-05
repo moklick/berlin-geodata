@@ -1,7 +1,7 @@
 berlin-geodata
 ==============
 
-Collection of geographical data (*.topojson, *.geojson) of Berlin. 
+Collection of geographical data as topojson of Berlin. 
 
 
 ## berlin.orsteile.topojson

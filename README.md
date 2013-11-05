@@ -11,4 +11,4 @@ File contains the id and name of every district (96).
 
 converted with the following command line:
 
-    topojson -o berlin.topojson -p Name --id-property data_id --shapefile-encoding utf8 -- shapes-with-attr.shp 
+    topojson -o berlin.topojson -p Name --id-property data_id --shapefile-encoding utf8 -- shapes.shp 
